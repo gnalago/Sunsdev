@@ -1,1 +1,1 @@
-# Sunsdev
+# Sunsdev[Installation](install.md)
